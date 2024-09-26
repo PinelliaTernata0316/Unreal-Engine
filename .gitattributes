@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.rar filter=lfs diff=lfs merge=lfs -text
+UnrealLearningKit filter=lfs diff=lfs merge=lfs -text
+UnrealLearningKit.rar filter=lfs diff=lfs merge=lfs -text
